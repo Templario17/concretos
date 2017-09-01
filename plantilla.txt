@@ -1,0 +1,10 @@
+
+|=================================================|
+|            DOSIFICACION CONCRETO                |
+| VOLUMEN : tipo       RESISTENCIA PSI : psi      |
+|======================|==========================|
+| CEMENTO  KILOGRAMOS  |       cemento            |
+| ARENA  METRO CUBICOS |        arena             |
+| GRAVA METRO CUBICOS  |        grava             |
+| AGUAS LITROS         |        agua              |
+|=================================================|
